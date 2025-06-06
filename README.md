@@ -1,13 +1,9 @@
 ## Hi there 👋
 
-<!--
-**synnerg/synnerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-# 👋 Hi, I'm Synnerg
 
-### 🎸 Musician • 🎧 Producer • 🎛️ Tech Explorer
+### 🎸 Musician • 🎧 Producer • 🎛️ Developer
 
 I'm an experimental guitarist & music producer blending **psychedelia, funk, metal, and EDM**.  
 Currently building sounds, stories, and a vibe-heavy brand across music, code, and digital culture.
