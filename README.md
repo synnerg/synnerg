@@ -12,7 +12,7 @@ Currently building sounds, stories, and a vibe-heavy brand across music, code, a
 
 ## 🎶 What I’m Up To
 - 🎛️ Crafting guitar-based EDM with custom sound design & live looping
-- 🎥 Creating content across [YouTube](https://www.youtube.com/@prodbyarjuna) & IG: `@chickendrice`
+- 🎥 Creating content across [YouTube]([https://www.youtube.com/@prodbyarjuna](https://www.youtube.com/@madebyarjuna)) & IG: `@chickendrice`
 - 🧠 Learning tech for music, visuals & automation
 - 💼 Open for **collabs, commissions, and cool chaos**
 
@@ -37,8 +37,8 @@ Currently building sounds, stories, and a vibe-heavy brand across music, code, a
 
 ## 📬 Let's Connect
 [![Instagram](https://img.shields.io/badge/IG-@chickendrice-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chickendrice)  
-[![YouTube](https://img.shields.io/badge/YT-@prodbyarjuna-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@prodbyarjuna)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ArjunSaxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunsaxena)
+[![YouTube](https://img.shields.io/badge/YT-@madebyarjuna-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@madebyarjuna)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ArjunSaxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunsaxena239)
 
 ---
 
